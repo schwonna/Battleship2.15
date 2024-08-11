@@ -9,7 +9,7 @@ Spieler und Computer können pro Runde jeweils eine Kanone abfeuern und setzen M
 Gewinner ist, wer alle gegnerischen Schiffe zuerst zerstört hat.
 
 ## verwendete Bibliotheken
-- [Processing](www.processing.org](https://processing.org/reference/)
+- [Processing](https://processing.org/reference/)
 - [JUnit](https://junit.org/junit5/)
 - [gifAnimation](https://github.com/extrapixel/gif-animation?tab=readme-ov-file)
 
@@ -20,7 +20,7 @@ Gewinner ist, wer alle gegnerischen Schiffe zuerst zerstört hat.
 
 ## Screenshots
 Start-Bildschirm:
-![screenshot1_start.png](screenshots%2Fscreenshot1_start.png)
+![screenshot1_START.png](screenshots%2Fscreenshot1_START.png)
 
 Schiffplatzierungs-Bildschirm:
 ![screenshot2_PLACE_SHIPS.png](screenshots%2Fscreenshot2_PLACE_SHIPS.png)
